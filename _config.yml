@@ -1,0 +1,5 @@
+exclude: [_backup, .res, .vscode, .gitignore, Gemfile, Gemfile.lock, bc-info.code-workspace, ritlug.github.io]
+
+ignore_theme_config: true
+
+permalink: pretty
